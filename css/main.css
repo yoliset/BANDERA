@@ -1,0 +1,43 @@
+
+
+
+a{
+
+    margin: 15px;
+    padding: 20px;
+    background-color:rgba(16, 223, 230, 0.7);
+    border-radius: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #F3E3E3;
+    font-family: fantasy;
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+   transition: width 10s;
+    text-decoration:none;
+    cursor: auto;
+    color: black;
+}
+
+
+
+a:hover {
+    padding: 5px;
+    background-color: rgba(255, 0, 203, 0.46);
+    
+}
+body{
+    text-align: center;
+    background-image: url(images/mainblack.jpg);
+    z-index: -100;
+   
+}
+.sed{
+    font-size: 50px;
+    color: coral;
+    font-family: cursive;
+    width: 300px;
+    position: relative;
+    left: 40%;
+}

@@ -1,0 +1,17 @@
+.amarillo{
+  
+    background: yellow;
+   
+}
+.rojo{
+    background: red;
+    
+   
+}
+.amarillo, .rojo {
+  
+    margin-right: 100px;
+   
+    padding-bottom: 80px;
+   
+}
